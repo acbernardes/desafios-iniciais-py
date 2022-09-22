@@ -15,7 +15,7 @@ Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman,
 Exemplos de Entrada 200 3 8	
 Exemplos de Saída 18.18
 
-### [Resolução - Desafio 01](link)
+### [Resolução - Desafio 01](https://github.com/acbernardes/desafios-iniciais-py/blob/master/Desafio01_As_Duas_Torres.py)
 
 ## Desafio 02 - Cachoro quente
 
@@ -34,7 +34,7 @@ Seu programa deve produzir uma única linha com um número racional representand
 Exemplos de Entrada: 10 90
 Exemplos de Saída: 0.11
 
-### [Resolução - Desafio 02](link)
+### [Resolução - Desafio 02](https://github.com/acbernardes/desafios-iniciais-py/blob/master/Desafio02_CachorroQuente.py)
 
 ## Desafio 03 - Cálculo de Viagem
 
@@ -50,5 +50,5 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 Exemplo de Entrada: 10 85  
 Exemplo de Saída: 70.833
             
-### [Resolução - Desafio 03](link)
+### [Resolução - Desafio 03](https://github.com/acbernardes/desafios-iniciais-py/blob/master/Desafio03_CalculoViagem.py)
 
